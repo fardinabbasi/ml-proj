@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.onnx
+.DS_Store
+
+# همه چیز را در این پوشه‌ها نادیده بگیر
+dataset/**
+results/**
+
+# ولی خود پوشه‌ها و زیرفولدرها و .gitkeep را نادیده نگیر
+!dataset/
+!dataset/**/
+!dataset/.gitkeep
+!dataset/**/.gitkeep
+
+!results/
+!results/**/
+!results/.gitkeep
+!results/**/.gitkeep

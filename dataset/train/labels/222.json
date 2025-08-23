@@ -1,0 +1,94 @@
+{
+  "annotations": [
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 248.31249999999977,
+        "y": 475.2243053402721,
+        "width": 291.125,
+        "height": 411
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 714.9687499999997,
+        "y": 607.9374999999999,
+        "width": 316.8125,
+        "height": 256.875
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 1280.09375,
+        "y": 475.21875,
+        "width": 94.1875,
+        "height": 363.90625
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 1387.125,
+        "y": 625.0625,
+        "width": 111.3125,
+        "height": 42.8125
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 1669.6875,
+        "y": 458.09375,
+        "width": 162.6875,
+        "height": 274
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 1896.59375,
+        "y": 458.1037496124899,
+        "width": 89.90625,
+        "height": 440.96875
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 2170.59375,
+        "y": 505.1875,
+        "width": 274,
+        "height": 303.96875
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 2658.65625,
+        "y": 436.6875,
+        "width": 166.96875,
+        "height": 376.75
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 2936.9375,
+        "y": 659.3125,
+        "width": 179.8125,
+        "height": 55.65625
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 3343.6562500000005,
+        "y": 410.9999999999999,
+        "width": 102.75,
+        "height": 385.3125
+      }
+    }
+  ]
+}

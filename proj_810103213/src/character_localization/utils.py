@@ -1,0 +1,24 @@
+import os
+import torch
+import random
+import numpy as np
+
+from . import config
+
+
+def set_seed(seed_value=config.SEED):
+    """
+    Set seed for reproducibility across all random number generators.
+    """
+    os.environ['PYTHONHASHSEED'] = str(seed_value)
+    random.seed(seed_value)
+    np.random.seed(seed_value)
+    torch.manual_seed(seed_value)
+    
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed(seed_value)
+        torch.cuda.manual_seed_all(seed_value)
+        torch.backends.cudnn.deterministic = True
+        torch.backends.cudnn.benchmark = False        
+        torch.use_deterministic_algorithms(True, warn_only=True)
+

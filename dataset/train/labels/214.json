@@ -1,0 +1,58 @@
+{
+  "annotations": [
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 124.32000000000001,
+        "y": 119.88,
+        "width": 69.264,
+        "height": 156.288
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 245.088,
+        "y": 136.752,
+        "width": 89.68800000000002,
+        "height": 128.76
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 382.728,
+        "y": 231.768,
+        "width": 92.35199999999998,
+        "height": 29.304000000000002
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 529.248,
+        "y": 134.976,
+        "width": 76.36799999999994,
+        "height": 141.192
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 721.944,
+        "y": 206.016,
+        "width": 93.24000000000001,
+        "height": 19.536
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 896.88,
+        "y": 121.656,
+        "width": 89.68799999999999,
+        "height": 134.976
+      }
+    }
+  ]
+}

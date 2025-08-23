@@ -1,0 +1,68 @@
+{
+  "annotations": [
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 145.125,
+        "y": 96.75,
+        "width": 87.34375,
+        "height": 157.21875
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 317.125,
+        "y": 166.625,
+        "width": 106.15625,
+        "height": 96.75
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 461.6092740380393,
+        "y": 125.61403898879405,
+        "width": 110.1875,
+        "height": 108.84375
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 596.6001654754631,
+        "y": 160.80385779881848,
+        "width": 77.9375,
+        "height": 91.375
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 704.125,
+        "y": 120.9375,
+        "width": 69.875,
+        "height": 118.25
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 796.84375,
+        "y": 190.8125,
+        "width": 63.15625,
+        "height": 13.4375
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 898.96875,
+        "y": 115.5625,
+        "width": 92.71875,
+        "height": 104.8125
+      }
+    }
+  ],
+  "expression": "4+7*2-5"
+}

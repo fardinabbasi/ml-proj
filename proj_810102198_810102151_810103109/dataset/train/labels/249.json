@@ -1,0 +1,85 @@
+{
+  "annotations": [
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 55,
+        "y": 101.25,
+        "width": 86.25,
+        "height": 92.5
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 200,
+        "y": 103.75,
+        "width": 60,
+        "height": 90
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 320,
+        "y": 96.24540448201675,
+        "width": 91.25,
+        "height": 77.5
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 460,
+        "y": 153.75,
+        "width": 67.5,
+        "height": 20
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 577.5,
+        "y": 73.75,
+        "width": 48.75,
+        "height": 145
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 692.5,
+        "y": 98.75,
+        "width": 82.5,
+        "height": 90
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 812.5,
+        "y": 122.5,
+        "width": 87.5,
+        "height": 71.25
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 952.5,
+        "y": 113.75,
+        "width": 67.5,
+        "height": 76.25
+      }
+    },
+    {
+      "class": "char",
+      "boundingBox": {
+        "x": 1035,
+        "y": 86.25,
+        "width": 51.25,
+        "height": 158.75
+      }
+    }
+  ]
+}
